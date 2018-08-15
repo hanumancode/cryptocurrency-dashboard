@@ -1,3 +1,7 @@
+html,
+body {
+  background: #262626;
+}
 .container {
   width: auto;
 }
@@ -6,6 +10,6 @@
   width: auto;
   margin: 10px 1%;
   float: left;
-  /* border-radius: 5%; */
+  border-radius: 5%;
   object-fit: cover;
 }
